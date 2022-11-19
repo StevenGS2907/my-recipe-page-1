@@ -13,7 +13,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github.com/StevenGS2907/my-recipe-page-1/blob/main/css.txt">
       Solution
     </a>
     <span> | </span>
@@ -28,7 +28,7 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://github.com/StevenGS2907/my-recipe-page-1/blob/main/Capture.PNG)
 
 
 ## Contact
